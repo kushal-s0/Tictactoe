@@ -1,5 +1,5 @@
 <h2 align="center">
-  TICTACTOE - v2.0<br/>
+  TICTACTOE <br/>
   <a href="https://tictactoe-beta-two.vercel.app/" target="_blank">TicTacToe</a>
 </h2>
 
