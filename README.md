@@ -4,7 +4,9 @@
 </h2>
 
 <br/>
-
+<div align="center">
+  <img alt="Demo" src="./static/demo.png" />
+</div>
 <center>
 </center>
 
